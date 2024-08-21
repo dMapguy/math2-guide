@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: math-guide
+    env: docker
+    plan: free
